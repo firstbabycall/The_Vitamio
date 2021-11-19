@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/drawable/camera_text_selector.xml" value="0.24166666666666667" />
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/drawable/flash_ai_select.xml" value="0.20092592592592592" />
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/drawable/flash_cloose_select.xml" value="0.20092592592592592" />
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/drawable/flash_open_select.xml" value="0.20092592592592592" />
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/drawable/my_dialog_shape.xml" value="0.13854166666666667" />
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/drawable/on_off_select.xml" value="0.13854166666666667" />
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/drawable/thumbnail_shape.xml" value="0.16354166666666667" />
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/layout/camera_indicator.xml" value="0.25364583333333335" />
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/layout/flash_lamp.xml" value="0.264" />
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/layout/main_menu.xml" value="0.24094202898550723" />
+        <entry key="..\:/my_project/MyCamera/app/src/main/res/layout/my_dialog.xml" value="0.12239583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

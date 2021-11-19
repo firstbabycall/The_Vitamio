@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/major"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="专业"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textColor="@drawable/camera_text_selector"/>
+
+    <TextView
+        android:id="@+id/video"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="录像"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textColor="@drawable/camera_text_selector"/>
+
+    <TextView
+        android:id="@+id/photograph"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="拍照"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textColor="@drawable/camera_text_selector"/>
+
+    <TextView
+        android:id="@+id/slow_motion"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="慢动作"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textColor="@drawable/camera_text_selector"/>
+    <TextView
+        android:id="@+id/more"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="设置"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textColor="@drawable/camera_text_selector"/>
+
+</LinearLayout>
